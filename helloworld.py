@@ -1,0 +1,6 @@
+print('Hello, World!')
+print(10 * 10)
+print(20 * 20)
+print()
+print('the end', 'or is it?', "Let us wait and watch",)
+print('this looks really cool')
